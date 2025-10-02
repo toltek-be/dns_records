@@ -1,0 +1,12 @@
+# Fichiers de données
+domains.txt
+dns_records.csv
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Fichiers temporaires / système
+*.log
+*.tmp
+.DS_Store
